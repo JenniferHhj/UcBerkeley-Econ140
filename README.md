@@ -1,5 +1,6 @@
 # UcBerkeley-Econ140
-Economic Statistics and Econometrics: ECON 140
+# Economic Statistics and Econometrics: ECON 140
+
 Course Description:                                                                                           
 This course will introduce you to the basic statistical skills used in empirical economic research and provide you with the theoretical tools and practical experience necessary to do applied econometric research. By the end of the course you are expected to be able to run and evaluate multiple regression models, perform basic hypothesis testing, interpret the results and evaluate their significance.
 
